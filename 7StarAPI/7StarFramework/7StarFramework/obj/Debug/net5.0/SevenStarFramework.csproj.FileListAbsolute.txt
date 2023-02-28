@@ -1,0 +1,15 @@
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\obj\Debug\net5.0\SevenStarFramework.csprojAssemblyReference.cache
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\obj\Debug\net5.0\SevenStarFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\obj\Debug\net5.0\SevenStarFramework.AssemblyInfoInputs.cache
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\obj\Debug\net5.0\SevenStarFramework.AssemblyInfo.cs
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\obj\Debug\net5.0\SevenStarFramework.csproj.CoreCompileInputs.cache
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\bin\Debug\net5.0\SevenStarFramework.deps.json
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\bin\Debug\net5.0\SevenStarFramework.dll
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\bin\Debug\net5.0\ref\SevenStarFramework.dll
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\bin\Debug\net5.0\SevenStarFramework.pdb
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\bin\Debug\net5.0\SevenStarDtos.dll
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\bin\Debug\net5.0\SevenStarDtos.pdb
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\obj\Debug\net5.0\SevenStarFramework.csproj.CopyComplete
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\obj\Debug\net5.0\SevenStarFramework.dll
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\obj\Debug\net5.0\ref\SevenStarFramework.dll
+D:\7 Star Api\7StarAPI\7StarFramework\7StarFramework\obj\Debug\net5.0\SevenStarFramework.pdb

@@ -1,0 +1,79 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+	  <TargetFramework>net5.0</TargetFramework>
+	  <AssemblyName>SevenStar</AssemblyName>
+	  <RootNamespace>SevenStar</RootNamespace> 
+  
+   
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+   
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="images\**" />
+    <Compile Remove="StudentImages\**" />
+    <Content Remove="images\**" />
+    <Content Remove="StudentImages\**" />
+    <EmbeddedResource Remove="images\**" />
+    <EmbeddedResource Remove="StudentImages\**" />
+    <None Remove="images\**" />
+    <None Remove="StudentImages\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    
+   
+    
+    <PackageReference Include="ClosedXML" Version="0.96.0" />
+    
+   
+    
+    <PackageReference Include="DinkToPdf" Version="1.0.8" />
+    
+   
+    
+    <PackageReference Include="MimeKit" Version="3.3.0" />
+    
+   
+    
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    
+   
+    
+    <PackageReference Include="NPOI" Version="2.5.5" />
+    
+   
+    
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+   
+    <PackageReference Include="System.IO" Version="4.3.0" />
+   
+    <PackageReference Include="Zen.Barcode.Rendering.Framework" Version="3.1.10729.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\7StarDtos\7StarDtos\SevenStarDtos.csproj" />
+    <ProjectReference Include="..\7StarFramework\7StarFramework\SevenStarFramework.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
+    <TypeScriptTarget>ES2018</TypeScriptTarget>
+    <TypeScriptJSXEmit>React</TypeScriptJSXEmit>
+    <TypeScriptModuleKind>AMD</TypeScriptModuleKind>
+    <TypeScriptCompileOnSaveEnabled>True</TypeScriptCompileOnSaveEnabled>
+    <TypeScriptNoImplicitAny>False</TypeScriptNoImplicitAny>
+    <TypeScriptRemoveComments>False</TypeScriptRemoveComments>
+    <TypeScriptOutFile />
+    <TypeScriptOutDir />
+    <TypeScriptGeneratesDeclarations>False</TypeScriptGeneratesDeclarations>
+    <TypeScriptNoEmitOnError>True</TypeScriptNoEmitOnError>
+    <TypeScriptSourceMap>True</TypeScriptSourceMap>
+    <TypeScriptMapRoot />
+    <TypeScriptSourceRoot />
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\bin\Debug\net5.0\7StarDtos.deps.json
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\bin\Debug\net5.0\7StarDtos.dll
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\bin\Debug\net5.0\ref\7StarDtos.dll
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\bin\Debug\net5.0\7StarDtos.pdb
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\7StarDtos.csprojAssemblyReference.cache
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\7StarDtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\7StarDtos.AssemblyInfoInputs.cache
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\7StarDtos.AssemblyInfo.cs
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\7StarDtos.csproj.CoreCompileInputs.cache
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\staticwebassets\7StarDtos.StaticWebAssets.Manifest.cache
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\staticwebassets\7StarDtos.StaticWebAssets.xml
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\scopedcss\bundle\7StarDtos.styles.css
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\7StarDtos.RazorTargetAssemblyInfo.cache
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\7StarDtos.dll
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\ref\7StarDtos.dll
+D:\7 Star Api\7StarAPI\7StarDtos\7StarDtos\obj\Debug\net5.0\7StarDtos.pdb

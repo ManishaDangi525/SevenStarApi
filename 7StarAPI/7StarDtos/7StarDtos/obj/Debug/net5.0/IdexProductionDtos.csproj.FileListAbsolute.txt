@@ -1,0 +1,16 @@
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\bin\Debug\net5.0\IdexProductionDtos.deps.json
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\bin\Debug\net5.0\IdexProductionDtos.dll
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\bin\Debug\net5.0\ref\IdexProductionDtos.dll
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\bin\Debug\net5.0\IdexProductionDtos.pdb
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\IdexProductionDtos.csprojAssemblyReference.cache
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\IdexProductionDtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\IdexProductionDtos.AssemblyInfoInputs.cache
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\IdexProductionDtos.AssemblyInfo.cs
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\IdexProductionDtos.csproj.CoreCompileInputs.cache
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\staticwebassets\IdexProductionDtos.StaticWebAssets.Manifest.cache
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\staticwebassets\IdexProductionDtos.StaticWebAssets.xml
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\scopedcss\bundle\IdexProductionDtos.styles.css
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\IdexProductionDtos.RazorTargetAssemblyInfo.cache
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\IdexProductionDtos.dll
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\ref\IdexProductionDtos.dll
+D:\IDEXMaterialTrackingProject\IdexProductionAPI\IdexProductionDtos\IdexProductionDtos\obj\Debug\net5.0\IdexProductionDtos.pdb
